@@ -7,5 +7,4 @@
 <p align="center">Useful for streamers and content creators, or people who just want an image or video on their screen :P</p><br>
 
 <p align="center"><sup>**//notquiteETERNAL**</sup></p><br>
-
 <p align="center"><sup>*Last updated 6th Nov 2026*</sup></p>
