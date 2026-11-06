@@ -1,4 +1,4 @@
-![description](banner/float.fileBanner.png)
+![description](banner/float.fileBanner.png)<br>
 Effortlessly display ANY file type on your screen anywhere!<br>
 Resize and move around your displayed file freely, even with the program closed!
 
