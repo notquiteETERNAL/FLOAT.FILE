@@ -9,6 +9,6 @@ Useful for streamers and content creators, or people who just want an image or v
 </p>
 
 <p align="center">
-<sup>**//notquiteETERNAL**</sup><br>
-<sup>*Last updated 6th Nov 2026*</sup><br>
+**<sup>//notquiteETERNAL</sup>**<br>
+*<sup>Last updated 6th Nov 2026</sup>*<br>
 </p>
