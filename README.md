@@ -20,6 +20,21 @@
 ---
 
 <p align="center">
+  <b>Fullscreen Optimizations Update | V1.3.0</b><br>
+</p>
+
+<p align="center">
+  + Fullscreen-optimized games like CS2 should no longer lag FLOAT.FILE<br>
+  <sup>Note: GIFs and videos, (mainly videos), may still lag slightly</sup><br></p>
+</p>
+
+<p align="center">
+  <i><sup>7th Nov 2026</sup></i><br></p>
+</p>
+
+---
+
+<p align="center">
   <b>Memory Usage Update | V1.2.2</b><br>
 </p>
 
