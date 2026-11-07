@@ -33,8 +33,6 @@ Useful for streamers and content creators, or people who just want an image or v
 
 ---
 
----
-
 <p align="center">
   <b>Extras Update | V1.1.0</b><br>
 </p>
