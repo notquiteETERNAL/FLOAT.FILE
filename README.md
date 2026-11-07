@@ -20,7 +20,7 @@ Useful for streamers and content creators, or people who just want an image or v
 ---
 
 <p align="center">
-  <b>Click-through Update | V1.1.0</b><br>
+  <b>Click-through Update | V1.2.0</b><br>
 </p>
 
 <p align="center">
