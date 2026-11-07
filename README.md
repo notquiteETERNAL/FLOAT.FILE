@@ -20,6 +20,20 @@
 ---
 
 <p align="center">
+  <b>Source Code Update | V1.2.1</b><br>
+</p>
+
+<p align="center">
+  + Uploaded full source code! Check the <i>raw</i> folder :P
+</p>
+
+<p align="center">
+  <i><sup>7th Nov 2026</sup></i><br></p>
+</p>
+
+---
+
+<p align="center">
   <b>Click-through Update | V1.2.0</b><br>
 </p>
 
