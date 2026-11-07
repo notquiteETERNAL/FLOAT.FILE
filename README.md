@@ -20,6 +20,22 @@ Useful for streamers and content creators, or people who just want an image or v
 ---
 
 <p align="center">
+  <b>Click-through Update | V1.1.0</b><br>
+</p>
+
+<p align="center">
+  + Added click-through support (Click the lock icon to enable click-through, right click to change keybind)<br>
+</p>
+
+<p align="center">
+  <i><sup>7th Nov 2026</sup></i><br></p>
+</p>
+
+---
+
+---
+
+<p align="center">
   <b>Extras Update | V1.1.0</b><br>
 </p>
 
