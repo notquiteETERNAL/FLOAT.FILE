@@ -9,6 +9,41 @@ Useful for streamers and content creators, or people who just want an image or v
 </p>
 
 <p align="center">
-<b><sup>//notquiteETERNAL</sup></b><br>
-<i><sup>Last updated 7th Nov 2026</sup></i><br>
+  <b><sup>//notquiteETERNAL</sup></b><br>
+  <i><sup>Last updated 7th Nov 2026</sup></i><br>
+</p>
+
+---
+
+<p align="center"><b>UPDATES</b><br>
+
+---
+
+<p align="center">
+  <b>Extras Update | V1.1.0</b><br>
+</p>
+
+<p align="center">
+  + Added alignment buttons<br>
+  + Added opacity setting<br>
+  + Changed logo and logo text color<br>
+  + Optimizations (~100MB RAM → ~80MB RAM)<br>
+</p>
+
+<p align="center">
+  <i><sup>7th Nov 2026</sup></i><br></p>
+</p>
+
+---
+
+<p align="center">
+  <b>Initial Release | V1.0.0</b><br>
+</p>
+
+<p align="center">
+  Just the initial release, nothing to comment on
+</p>
+
+<p align="center">
+  <i><sup>6th Nov 2026</sup></i><br></p>
 </p>
