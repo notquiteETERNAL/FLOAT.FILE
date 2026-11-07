@@ -1,4 +1,4 @@
-![description](float.fileBanner2.png)<br>
+![description](READMEBanner.png)<br>
 
 <p align="center">To download FLOAT.FILE, download FLOAT.FILE.zip and extract it, then ruin build.bat (just called "build"), to get the .exe!</p>
 
