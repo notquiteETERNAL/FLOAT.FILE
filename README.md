@@ -1,4 +1,4 @@
-![description](float.fileBanner.png)<br>
+![description](float.fileBanner2.png)<br>
 
 <p align="center">To download FLOAT.FILE, download FLOAT.FILE.zip and extract it, then ruin build.bat (just called "build"), to get the .exe!</p>
 
@@ -10,5 +10,5 @@ Useful for streamers and content creators, or people who just want an image or v
 
 <p align="center">
 <b><sup>//notquiteETERNAL</sup></b><br>
-<i><sup>Last updated 6th Nov 2026</sup></i><br>
+<i><sup>Last updated 7th Nov 2026</sup></i><br>
 </p>
