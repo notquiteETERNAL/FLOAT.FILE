@@ -20,6 +20,21 @@
 ---
 
 <p align="center">
+  <b>Memory Usage Update | V1.2.2</b><br>
+</p>
+
+<p align="center">
+  + Managed to lower memory usage from ~120MB → ~60MB<br>
+  <sup>Note: May tweak a bit further lower even more</sup><br></p>
+</p>
+
+<p align="center">
+  <i><sup>7th Nov 2026</sup></i><br></p>
+</p>
+
+---
+
+<p align="center">
   <b>Source Code Update | V1.2.1</b><br>
 </p>
 
