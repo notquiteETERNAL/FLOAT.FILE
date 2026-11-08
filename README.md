@@ -1,4 +1,6 @@
-![description](READMEBanner.png)<br>
+<p align="center">
+  <img src="https://github.com/notquiteETERNAL/FLOAT.FILE/blob/main/READMEBanner.png" />
+</p>
 
 <p align="center">To download FLOAT.FILE, download FLOAT.FILE.zip and extract it, then ruin build.bat (just called "build"), to get the .exe!</p>
 
@@ -15,7 +17,9 @@
 
 ---
 
-![description](UPDATESBanner.png)<br>
+<p align="center">
+  <img src="https://github.com/notquiteETERNAL/FLOAT.FILE/blob/main/UPDATESBanner.png" />
+</p>
 
 ---
 
