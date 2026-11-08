@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"><b>UPDATES</b><br>
+![description](UPDATESBanner.png)<br>
 
 ---
 
