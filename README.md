@@ -29,7 +29,7 @@
 
 <p align="center">
   + Fullscreen-optimized games like CS2 should no longer lag FLOAT.FILE<br>
-  <sup>Note: GIFs and videos, (mainly videos), may still lag slightly</sup><br></p>
+  <sup>Note: GIFs and videos may still lag <i>slightly</i>, but it should be barely noticable</sup><br></p>
 </p>
 
 <p align="center">
